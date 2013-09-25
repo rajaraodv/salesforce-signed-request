@@ -1,4 +1,5 @@
-### A simple Salesforce Canvas signed-request decoder
+## Salesforce-signed-request
+####A Node.js npm module to decode Salesforce signed-request from Salesforce Canvas
 
 [![Build Status](https://travis-ci.org/rajaraodv/salesforce-signed-request.png?branch=master)](https://travis-ci.org/rajaraodv/salesforce-signed-request)
 
