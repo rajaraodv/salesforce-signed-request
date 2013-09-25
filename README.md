@@ -12,7 +12,7 @@ This library exports a single function to `decode` the signed request.
 
 ```javascript
  
- var decode = require('signed-request');
+ var decode = require('salesforce-signed-request');
  
  //json will have Salesforce context
  var json = decode('YOUR_SIGNED_REQUEST', 'API_SECRET');
