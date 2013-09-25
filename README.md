@@ -1,8 +1,7 @@
-<p align="center">
 ### A simple Salesforce Canvas signed-request decoder
 
+<p align="center">
 ![image](https://raw.github.com/rajaraodv/salesforce-signed-request/master/signed-request.jpg)
-
 
 
 
@@ -21,7 +20,7 @@ This library exports a single function to `decode` the signed request.
 
 ### Test
 1. Install Mocha, expect, chai & should by running `npm install`
-2.  You may want to install Mocha globally by running `npm install -g mocha` 
+2. You may want to install Mocha globally by running `npm install -g mocha` 
 2. Simply run `mocha` in the command line.
 
 
