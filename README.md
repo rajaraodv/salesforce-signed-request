@@ -1,6 +1,7 @@
-# A simple decoder for Salesforce Canvas signed-request
 <p align="center">
-![image](https://raw.github.com/rajaraodv/salesforce-signed-request/master/signed-request.jpg)
+## A simple Salesforce Canvas signed-request decoder
+
+<image src="https://raw.github.com/rajaraodv/salesforce-signed-request/master/signed-request.jpg" style="height:250px;width:100%"> </img>
 
 
 
