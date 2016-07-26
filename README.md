@@ -7,6 +7,13 @@
 ![image](https://raw.github.com/rajaraodv/salesforce-signed-request/master/signed-request.jpg)
 
 
+### Installation
+
+```javascript
+npm i --save salesforce-signed-request
+```
+
+
 
 ### Usage
 This library exports a single function to `decode` the signed request.
